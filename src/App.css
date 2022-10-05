@@ -348,7 +348,8 @@ html {
 }
 
 .iux_iwuglz {
-  background-image: url("./src/assets/boxes.png");
+  /* background-image: url("./src/assets/boxes.png"); */
+  background-image: url("https://picsum.photos/800/600?random=2");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 48%;
