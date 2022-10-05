@@ -140,8 +140,7 @@ html {
   padding-top: var(--80px);
   min-height: 100vh;
   width: 100%;
-  background-image: url("./src/assets/hands_light.png"),
-    url("./src/assets/stars.png");
+  background-image: url("./assets/hands_light.png"), url("./assets/stars.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -165,19 +164,19 @@ html {
 
 /* Hero Icons */
 .program {
-  background-image: url("./src/assets/coding.svg");
+  background-image: url("./assets/coding.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .design {
-  background-image: url("./src/assets/design.svg");
+  background-image: url("./assets/design.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .bookkeep {
-  background-image: url("./src/assets/bookkeep.svg");
+  background-image: url("./assets/bookkeep.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -264,15 +263,15 @@ html {
 }
 
 .bring_value {
-  background-image: url("./src/assets/bring_value.svg");
+  background-image: url("./assets/bring_value.svg");
 }
 
 .application {
-  background-image: url("./src/assets/application.svg");
+  background-image: url("./assets/application.svg");
 }
 
 .modern {
-  background-image: url("./src/assets/modern.svg");
+  background-image: url("./assets/modern.svg");
 }
 
 .xdk_lkilzr {
@@ -348,8 +347,7 @@ html {
 }
 
 .iux_iwuglz {
-  /* background-image: url("./src/assets/boxes.png"); */
-  background-image: url("https://picsum.photos/800/600?random=2");
+  background-image: url("./assets/boxes.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 48%;
